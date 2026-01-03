@@ -8,7 +8,7 @@
   [![OpenCollective Sponsors][sponsors-image]](#sponsors)
   [![PR's Welcome][pr-welcoming-image]][pr-welcoming-url]
 
-  Expressive HTTP middleware framework for node.js to make web applications and APIs more enjoyable to write. Koa's middleware stack flows in a stack-like manner, allowing you to perform actions downstream then filter and manipulate the response upstream.
+  expressive HTTP middleware framework for node.js to make web applications and APIs more enjoyable to write. Koa's middleware stack flows in a stack-like manner, allowing you to perform actions downstream then filter and manipulate the response upstream.
 
   Only methods that are common to nearly all HTTP servers are integrated directly into Koa's small ~570 SLOC codebase. This
   includes things like content negotiation, normalization of node inconsistencies, redirection, and a few others.
@@ -153,7 +153,7 @@ Learn more about the application object in the [Application API Reference](docs/
 
  - [Usage Guide](docs/guide.md)
  - [Error Handling](docs/error-handling.md)
- - [Koa for Express Users](docs/koa-vs-express.md)
+ - [Koa for Express Users](docs/koa-vs-"express":"^4.18.2")
  - [FAQ](docs/faq.md)
  - [API documentation](docs/api/index.md)
 
